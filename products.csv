@@ -1,1 +1,25 @@
-PASTE_THE_products.csv_CONTENT_HERE
+product_id,product_name,category,sub_category
+P001,Ergo Chair Lite,Furniture,Chairs
+P002,Ergo Chair Pro,Furniture,Chairs
+P003,Standing Desk 120,Furniture,Desks
+P004,Standing Desk 160,Furniture,Desks
+P005,Storage Cabinet Slim,Furniture,Storage
+P006,Laptop 13,Technology,Computers
+P007,Laptop 15,Technology,Computers
+P008,Monitor 24,Technology,Displays
+P009,Monitor 27,Technology,Displays
+P010,Wireless Mouse,Technology,Accessories
+P011,Keyboard Mechanical,Technology,Accessories
+P012,Printer Inkjet,Technology,Printers
+P013,Paper Ream 500,Office Supplies,Paper
+P014,Notebooks Pack,Office Supplies,Paper
+P015,Pens Gel 10pk,Office Supplies,Writing
+P016,Markers 8pk,Office Supplies,Writing
+P017,Shipping Boxes 20pk,Office Supplies,Packing
+P018,Tape Rolls 6pk,Office Supplies,Packing
+P019,Coffee Beans 1kg,Food & Beverage,Coffee
+P020,Tea Assortment,Food & Beverage,Tea
+P021,Snack Bars 24pk,Food & Beverage,Snacks
+P022,Water Bottles 24pk,Food & Beverage,Beverages
+P023,Headset UC,Technology,Accessories
+P024,Webcam HD,Technology,Accessories

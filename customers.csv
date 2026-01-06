@@ -1,1 +1,181 @@
-PASTE_THE_customers.csv_CONTENT_HERE
+customer_id,customer_name,segment,signup_date
+C0001,Customer 0001,Consumer,2024-06-12
+C0002,Customer 0002,Corporate,2024-06-18
+C0003,Customer 0003,Small Business,2024-06-20
+C0004,Customer 0004,Consumer,2024-06-22
+C0005,Customer 0005,Corporate,2024-06-25
+C0006,Customer 0006,Consumer,2024-06-26
+C0007,Customer 0007,Small Business,2024-06-28
+C0008,Customer 0008,Consumer,2024-06-30
+C0009,Customer 0009,Corporate,2024-07-01
+C0010,Customer 0010,Consumer,2024-07-10
+C0011,Customer 0011,Corporate,2024-07-12
+C0012,Customer 0012,Consumer,2024-07-14
+C0013,Customer 0013,Small Business,2024-07-16
+C0014,Customer 0014,Consumer,2024-07-18
+C0015,Customer 0015,Corporate,2024-07-20
+C0016,Customer 0016,Consumer,2024-07-22
+C0017,Customer 0017,Small Business,2024-07-24
+C0018,Customer 0018,Consumer,2024-07-26
+C0019,Customer 0019,Corporate,2024-07-28
+C0020,Customer 0020,Consumer,2024-08-02
+C0021,Customer 0021,Corporate,2024-08-04
+C0022,Customer 0022,Consumer,2024-08-06
+C0023,Customer 0023,Small Business,2024-08-08
+C0024,Customer 0024,Consumer,2024-08-10
+C0025,Customer 0025,Corporate,2024-08-12
+C0026,Customer 0026,Consumer,2024-08-14
+C0027,Customer 0027,Small Business,2024-08-16
+C0028,Customer 0028,Consumer,2024-08-18
+C0029,Customer 0029,Corporate,2024-08-20
+C0030,Customer 0030,Consumer,2024-09-01
+C0031,Customer 0031,Corporate,2024-09-03
+C0032,Customer 0032,Consumer,2024-09-05
+C0033,Customer 0033,Small Business,2024-09-07
+C0034,Customer 0034,Consumer,2024-09-09
+C0035,Customer 0035,Corporate,2024-09-11
+C0036,Customer 0036,Consumer,2024-09-13
+C0037,Customer 0037,Small Business,2024-09-15
+C0038,Customer 0038,Consumer,2024-09-17
+C0039,Customer 0039,Corporate,2024-09-19
+C0040,Customer 0040,Consumer,2024-10-01
+C0041,Customer 0041,Corporate,2024-10-03
+C0042,Customer 0042,Consumer,2024-10-05
+C0043,Customer 0043,Small Business,2024-10-07
+C0044,Customer 0044,Consumer,2024-10-09
+C0045,Customer 0045,Corporate,2024-10-11
+C0046,Customer 0046,Consumer,2024-10-13
+C0047,Customer 0047,Small Business,2024-10-15
+C0048,Customer 0048,Consumer,2024-10-17
+C0049,Customer 0049,Corporate,2024-10-19
+C0050,Customer 0050,Consumer,2024-11-01
+C0051,Customer 0051,Corporate,2024-11-03
+C0052,Customer 0052,Consumer,2024-11-05
+C0053,Customer 0053,Small Business,2024-11-07
+C0054,Customer 0054,Consumer,2024-11-09
+C0055,Customer 0055,Corporate,2024-11-11
+C0056,Customer 0056,Consumer,2024-11-13
+C0057,Customer 0057,Small Business,2024-11-15
+C0058,Customer 0058,Consumer,2024-11-17
+C0059,Customer 0059,Corporate,2024-11-19
+C0060,Customer 0060,Consumer,2024-12-01
+C0061,Customer 0061,Corporate,2024-12-03
+C0062,Customer 0062,Consumer,2024-12-05
+C0063,Customer 0063,Small Business,2024-12-07
+C0064,Customer 0064,Consumer,2024-12-15
+C0065,Customer 0065,Corporate,2024-12-17
+C0066,Customer 0066,Consumer,2024-12-19
+C0067,Customer 0067,Small Business,2024-12-21
+C0068,Customer 0068,Consumer,2024-12-23
+C0069,Customer 0069,Corporate,2024-12-25
+C0070,Customer 0070,Consumer,2024-12-27
+C0071,Customer 0071,Corporate,2025-01-02
+C0072,Customer 0072,Consumer,2025-01-04
+C0073,Customer 0073,Small Business,2025-01-06
+C0074,Customer 0074,Consumer,2025-01-08
+C0075,Customer 0075,Corporate,2025-01-10
+C0076,Customer 0076,Consumer,2025-01-12
+C0077,Customer 0077,Small Business,2025-01-14
+C0078,Customer 0078,Consumer,2025-01-16
+C0079,Customer 0079,Corporate,2025-01-18
+C0080,Customer 0080,Consumer,2025-01-20
+C0081,Customer 0081,Corporate,2025-01-22
+C0082,Customer 0082,Consumer,2025-02-01
+C0083,Customer 0083,Small Business,2025-02-03
+C0084,Customer 0084,Consumer,2025-02-05
+C0085,Customer 0085,Corporate,2025-02-07
+C0086,Customer 0086,Consumer,2025-02-09
+C0087,Customer 0087,Small Business,2025-02-11
+C0088,Customer 0088,Consumer,2025-02-13
+C0089,Customer 0089,Corporate,2025-02-15
+C0090,Customer 0090,Consumer,2025-02-17
+C0091,Customer 0091,Corporate,2025-02-19
+C0092,Customer 0092,Consumer,2025-03-01
+C0093,Customer 0093,Small Business,2025-03-03
+C0094,Customer 0094,Consumer,2025-03-05
+C0095,Customer 0095,Corporate,2025-03-07
+C0096,Customer 0096,Consumer,2025-03-09
+C0097,Customer 0097,Small Business,2025-03-11
+C0098,Customer 0098,Consumer,2025-03-13
+C0099,Customer 0099,Corporate,2025-03-15
+C0100,Customer 0100,Consumer,2025-03-17
+C0101,Customer 0101,Corporate,2025-04-01
+C0102,Customer 0102,Consumer,2025-04-03
+C0103,Customer 0103,Small Business,2025-04-05
+C0104,Customer 0104,Consumer,2025-04-07
+C0105,Customer 0105,Corporate,2025-04-09
+C0106,Customer 0106,Consumer,2025-04-11
+C0107,Customer 0107,Small Business,2025-04-13
+C0108,Customer 0108,Consumer,2025-04-15
+C0109,Customer 0109,Corporate,2025-04-17
+C0110,Customer 0110,Consumer,2025-04-19
+C0111,Customer 0111,Corporate,2025-05-01
+C0112,Customer 0112,Consumer,2025-05-03
+C0113,Customer 0113,Small Business,2025-05-05
+C0114,Customer 0114,Consumer,2025-05-07
+C0115,Customer 0115,Corporate,2025-05-09
+C0116,Customer 0116,Consumer,2025-05-11
+C0117,Customer 0117,Small Business,2025-05-13
+C0118,Customer 0118,Consumer,2025-05-15
+C0119,Customer 0119,Corporate,2025-05-17
+C0120,Customer 0120,Consumer,2025-05-19
+C0121,Customer 0121,Corporate,2025-06-01
+C0122,Customer 0122,Consumer,2025-06-03
+C0123,Customer 0123,Small Business,2025-06-05
+C0124,Customer 0124,Consumer,2025-06-07
+C0125,Customer 0125,Corporate,2025-06-09
+C0126,Customer 0126,Consumer,2025-06-11
+C0127,Customer 0127,Small Business,2025-06-13
+C0128,Customer 0128,Consumer,2025-06-15
+C0129,Customer 0129,Corporate,2025-06-17
+C0130,Customer 0130,Consumer,2025-06-19
+C0131,Customer 0131,Corporate,2025-07-01
+C0132,Customer 0132,Consumer,2025-07-03
+C0133,Customer 0133,Small Business,2025-07-05
+C0134,Customer 0134,Consumer,2025-07-07
+C0135,Customer 0135,Corporate,2025-07-09
+C0136,Customer 0136,Consumer,2025-07-11
+C0137,Customer 0137,Small Business,2025-07-13
+C0138,Customer 0138,Consumer,2025-07-15
+C0139,Customer 0139,Corporate,2025-07-17
+C0140,Customer 0140,Consumer,2025-07-19
+C0141,Customer 0141,Corporate,2025-08-01
+C0142,Customer 0142,Consumer,2025-08-03
+C0143,Customer 0143,Small Business,2025-08-05
+C0144,Customer 0144,Consumer,2025-08-07
+C0145,Customer 0145,Corporate,2025-08-09
+C0146,Customer 0146,Consumer,2025-08-11
+C0147,Customer 0147,Small Business,2025-08-13
+C0148,Customer 0148,Consumer,2025-08-15
+C0149,Customer 0149,Corporate,2025-08-17
+C0150,Customer 0150,Consumer,2025-08-19
+C0151,Customer 0151,Corporate,2025-09-01
+C0152,Customer 0152,Consumer,2025-09-03
+C0153,Customer 0153,Small Business,2025-09-05
+C0154,Customer 0154,Consumer,2025-09-07
+C0155,Customer 0155,Corporate,2025-09-09
+C0156,Customer 0156,Consumer,2025-09-11
+C0157,Customer 0157,Small Business,2025-09-13
+C0158,Customer 0158,Consumer,2025-09-15
+C0159,Customer 0159,Corporate,2025-09-17
+C0160,Customer 0160,Consumer,2025-09-19
+C0161,Customer 0161,Corporate,2025-10-01
+C0162,Customer 0162,Consumer,2025-10-03
+C0163,Customer 0163,Small Business,2025-10-05
+C0164,Customer 0164,Consumer,2025-10-07
+C0165,Customer 0165,Corporate,2025-10-09
+C0166,Customer 0166,Consumer,2025-10-11
+C0167,Customer 0167,Small Business,2025-10-13
+C0168,Customer 0168,Consumer,2025-10-15
+C0169,Customer 0169,Corporate,2025-10-17
+C0170,Customer 0170,Consumer,2025-10-19
+C0171,Customer 0171,Corporate,2025-11-01
+C0172,Customer 0172,Consumer,2025-11-03
+C0173,Customer 0173,Small Business,2025-11-05
+C0174,Customer 0174,Consumer,2025-11-07
+C0175,Customer 0175,Corporate,2025-11-09
+C0176,Customer 0176,Consumer,2025-11-11
+C0177,Customer 0177,Small Business,2025-11-13
+C0178,Customer 0178,Consumer,2025-11-15
+C0179,Customer 0179,Corporate,2025-11-17
+C0180,Customer 0180,Consumer,2025-11-19
